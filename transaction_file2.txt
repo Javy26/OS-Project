@@ -1,0 +1,26 @@
+8,2,8,make,Admin Channel 4
+15,2,15,make,Admin Channel 1
+23,2,23,make,Admin Channel 2
+16,5,16,make,Admin Channel 3
+20,8,20,make,Admin Channel 1
+1,10,1,make,Admin Channel 1
+6,13,6,make,Admin Channel 2
+13,20,13,make,Admin Channel 3
+5,21,5,make,Admin Channel 1
+19,21,19,make,Admin Channel 1
+4,23,4,make,Admin Channel 4
+2,24,2,make,Admin Channel 2
+3,25,3,make,Admin Channel 3
+10,26,10,make,Admin Channel 4
+14,26,14,make,Admin Channel 4
+24,26,24,make,Admin Channel 4
+11,29,11,make,Admin Channel 1
+21,31,21,make,Admin Channel 3
+17,33,17,make,Admin Channel 2
+18,33,18,make,Admin Channel 4
+9,34,9,make,Admin Channel 4
+12,34,12,make,Admin Channel 2
+7,35,7,make,Admin Channel 3
+22,35,22,make,Admin Channel 4
+25,35,25,make,Admin Channel 2
+
